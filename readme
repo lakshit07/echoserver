@@ -1,0 +1,2 @@
+This is a simple Echo Server which reads and displays HTTP parameters in the request.
+The application is built using Ruby on Rails.
