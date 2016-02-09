@@ -13,4 +13,7 @@ class RequestController < ApplicationController
 		@conn = request.env["HTTP_CONNECTION"]
 	end	
 
+	def aboutme
+	end
+
 end
